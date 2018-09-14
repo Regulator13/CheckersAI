@@ -1,11 +1,5 @@
 ---
 name: General Request
-about: A general request for an improvement for the program
-
----
-
----
-name: General Request
 about: A general request for an improvement for the game
 
 ---
