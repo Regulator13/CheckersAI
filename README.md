@@ -1,7 +1,7 @@
 # CheckersAI
-An AI that plays checkers using mini-max and alpha-beta pruning to compete against a human player.
-Allows the player to choose the depth of the depth-first mini-max search
-Now with neat loading bar!
+- An AI that plays checkers using mini-max and alpha-beta pruning to compete against a human player.
+- Allows the player to choose the depth of the depth-first mini-max search
+- Now with neat loading bar!
 
 ### Depths (Average time per move)
 - 0 - Searches all possible moves for itself (0 seconds)
