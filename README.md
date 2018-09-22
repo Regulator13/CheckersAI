@@ -12,3 +12,5 @@
 - 5 - I think this level is best to play against (~20 seconds)
 - 6 - If you really want to see the computer go (~1 min)
 - 7 - If you're really bored (~3 min)
+
+Also check out my Connect4 AI [here](https://github.com/Regulator13/Connect4-AI)!
